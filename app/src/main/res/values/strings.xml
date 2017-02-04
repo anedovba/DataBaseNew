@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBase</string>
+    <string name="button_read">Read</string>
+    <string name="button_insert">Insert</string>
+    <string name="hint_name">name</string>
+    <string name="hint_password">password</string>
+</resources>
